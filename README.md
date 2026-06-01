@@ -59,7 +59,7 @@ Python dependencies (installed via `requirements.txt`):
 
 ```bash
 # 1. Clone or download the repo
-git clone https://github.com/mmtxcode/intersight-chassis-report.git
+git clone https://github.com/markmcbr/intersight-chassis-report.git
 cd intersight-chassis-report
 
 # 2. Create and activate a virtual environment
